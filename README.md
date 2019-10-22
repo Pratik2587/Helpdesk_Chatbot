@@ -1,5 +1,5 @@
 # Helpdesk_Chatbot
-The tutorial for step by step guide to build a support helpdesk agent using Dialogflow and BigQuery. 
+This is the tutorial for step by step guide to build a support helpdesk agent using Dialogflow and BigQuery. 
 #Intro:
 
 Creating a support agent can bring down costs massively for a business. No need to hire an entire team when one well-trained agent can answer multiple requests simultaneously 24/7. This is a huge opportunity for disruption! We're going to train a simple machine learning model for predicting helpdesk response time using BigQuery. Then we'll build a simple chatbot using Dialogflow and learn how to integrate the trained BigQuery ML model into the helpdesk chatbot. 
